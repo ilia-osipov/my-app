@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.row{
+  --bs-gutter-x:0rem;
+}
+a{
+  text-decoration: 0;
+  color: white;
+}
+
+a:hover{
+  text-decoration: 0;
+  color: white;
+}
